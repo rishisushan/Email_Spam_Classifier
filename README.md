@@ -7,3 +7,4 @@ I implemented
 3. Did multiple model comparison and stored their accuracy and precision in new dataFrame Bestone(Multinomial Naive Bayes) has precision = 1 and accuracy = 0.97
 4. After implementation of every best possible method I stored model for deployment
 5. For deployment I'm using Streamlit
+Link: https://emailspamclassifier-56jqnggdufvqfappstcwsa2.streamlit.app/
